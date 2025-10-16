@@ -1,1 +1,36 @@
+# ==============================
+#  Configuration du portfolio GitHub
+# ==============================
+
+title: "Zonh Zonh | Software Engineer & Data Scientist"
+logo: "/assets/images/logo.png"  # chemin vers ton logo (à placer dans /assets/images/)
+description: >
+  Ingénieur logiciel et data scientist passionné par la modélisation numérique,
+  l’intelligence artificielle et la création de plateformes web intelligentes.
+  Je conçois des solutions innovantes alliant mathématiques, informatique et impact social.
+
+# Activer le bouton de téléchargement du README
+show_downloads: true
+
+# Langue du site
+lang: fr-FR
+
+# Thème GitHub Pages (modifie si tu veux un style différent)
+theme: jekyll-theme-cayman
+# Autres thèmes possibles : 
+#   jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-midnight, jekyll-theme-modernist
+
+
+# ==============================
+#  Options d’apparence
+# ==============================
+
+# Couleurs personnalisées du thème
+theme_color: "#0078D7"  # bleu professionnel
+text_color: "#333333"
+background_color: "#f7f7f7"
+
+# Options SEO
+url: "https://zonhzonh.github.io"
+baseurl: ""
 
